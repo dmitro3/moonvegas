@@ -147,7 +147,7 @@
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #dfdfdf;
+  background-color: rgb(var(--color-moonbeam-cyan));
   border-radius: 10px;
 }
 
